@@ -1,165 +1,77 @@
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hi, I'm Salma! 👋
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Hi, I'm Salma! 👋</h2>
 
 <p><em>
 🎓 4th-year Artificial Intelligence Student<br>
 💻 Software & Web Development Background<br>
-🤖 Interested in AI, Machine Learning & Data Science
+🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
 </em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma-blue?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub followers](https://img.shields.io/github/followers/salmamellah23?label=Follow\&style=social)](https://github.com/salmamellah23)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=Linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=GitHub\&logoColor=white)](YOUR_GITHUB_URL)
 
----
-
-### ⚡ A little more about me...
+### ⚡ About Me
 
 ```python
 salma = {
     "field": "Artificial Intelligence",
     "background": "Software & Web Development",
-
-    "interests": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science"
+    "interests": ["AI", "Machine Learning", "Data Science"],
+    "code": ["Python", "SQL", "HTML", "CSS"],
+    "tools": [
+        "NumPy",
+        "Pandas",
+        "scikit-learn",
+        "Flask",
+        "FastAPI",
+        "Git",
+        "GitHub",
+        "Linux"
     ],
-
-    "languages": [
-        "Python",
-        "SQL",
-        "HTML",
-        "CSS"
-    ],
-
-    "technologies": {
-        "data": [
-            "NumPy",
-            "Pandas"
-        ],
-
-        "machine_learning": [
-            "scikit-learn"
-        ],
-
-        "backend": [
-            "Flask",
-            "FastAPI",
-            "REST APIs"
-        ],
-
-        "development": [
-            "Git",
-            "GitHub",
-            "Linux"
-        ]
-    },
-
-    "current_focus": [
-        "Machine Learning",
-        "AI-driven applications",
-        "Backend development",
-        "REST APIs"
-    ],
-
-    "goal": "Build practical and intelligent software solutions"
+    "focus": "Building practical AI-driven solutions"
 }
 ```
 
----
+### 🚀 Projects
 
-### 🛠️ Technologies & Tools
+* 🤖 **SmartHire** — Intelligent recruitment application combining web development and AI for CV analysis, candidate-job matching and interview management.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,mysql,html,css,flask,fastapi" />
-</p>
+* 🌐 **Web & Software Development Projects** — Academic and practical projects focused on application development, databases and software engineering.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-</p>
-
----
-
-### 🚀 Featured Project
-
-#### 🤖 SmartHire
-
-**SmartHire** is an intelligent recruitment application combining **software development and Artificial Intelligence**.
-
-```text
-📋 Job Offers
-    ↓
-👤 Candidates
-    ↓
-📄 CV Analysis
-    ↓
-🧠 Candidate ↔ Job Matching
-    ↓
-📊 Recruitment Pipeline
-    ↓
-📅 Interview Management
-```
-
-Technologies include:
-
-* Python
-* Flask
-* SQLAlchemy
-* SQLite
-* HTML / CSS
-* Machine Learning / NLP concepts
-* Git & GitHub
-
----
+* 🧠 **AI Projects** — Exploring machine learning, data analysis and intelligent solutions through hands-on projects.
 
 ### 🌱 Currently Learning
 
-```text
-🐍 Python
-🗄️ SQL & Databases
-🐧 Linux
-📊 NumPy & Pandas
-🤖 Machine Learning with scikit-learn
-🌐 REST APIs
-⚡ FastAPI
-🔧 Git & GitHub
-```
+* 🐍 Python & advanced programming
+* 🗄️ SQL & databases
+* 🐼 NumPy & Pandas
+* 🤖 Machine Learning with scikit-learn
+* 🔗 REST APIs & FastAPI
+* 🐙 Git & GitHub
+* 🐧 Linux
+
+### 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmamellah23&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmamellah23&layout=compact&theme=default" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmamellah23\&show_icons=true\&theme=default)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmamellah23\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 📫 Connect with me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/salmamellah23">
-    <img src="https://img.icons8.com/material-outlined/40/000000/github.png" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-<em><b>I enjoy learning, building projects and connecting with people interested in technology.</b> 🚀</em>
-
----
-
-<h3 align="center">💻 Always learning. Always building. 🤖</h3>
+<h3 align="center">💻 Thanks for visiting my profile!</h3>
 
 
