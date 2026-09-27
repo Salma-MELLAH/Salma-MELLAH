@@ -1,43 +1,81 @@
-### Hello World! 👋
+![Coding Animation](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" />
+<h3 align="center">Artificial Intelligence Student | Software & Web Development Background | AI & Full-Stack Enthusiast</h3>
 
-* 🎓 I’m currently a **4th-year Artificial Intelligence student**.
-* 💻 I have a background in **Software & Web Development**.
-* 🌱 I’m currently learning **Machine Learning, Data Science and AI-driven application development**.
-* 🔭 I’m working on practical projects combining **Artificial Intelligence and Software Development**.
-* 🤖 I’m currently improving my skills in **Python, SQL, scikit-learn, FastAPI and REST APIs**.
-* ⚡ I enjoy turning ideas into **practical and intelligent solutions**.
+## A little bit about me
 
-#### 📫 How to reach me:
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](YOUR_LINKEDIN_URL)
-  
-[<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](YOUR_GITHUB_URL)
-
-#### 👨🏻‍💻 Languages and Tools <br />
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+🎓  I'm currently a **4th-year Artificial Intelligence student**. 
+💻  I have a background in **Software & Web Development**. 
+🤖  I'm interested in **Artificial Intelligence, Machine Learning and Data Science**. 
+🌱  I'm currently improving my skills in **Python, SQL, Linux, NumPy, Pandas and scikit-learn**. 
+🚀  I'm also learning **REST APIs, FastAPI, Git and GitHub**. 
+🛠️  I enjoy building **practical applications that combine software development and AI**. 
+💡  My goal is to continuously learn, build projects and turn ideas into useful solutions.
 
 ---
 
-### 🚀 Featured Project
+## Technologies & Tools
 
-**SmartHire** 🤖
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,mysql,html,css,flask,fastapi" />
+</p>
 
-An intelligent recruitment application combining **web development and AI** to help manage job offers, candidates and interviews, with CV analysis and candidate-job matching.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmamellah23\&show_icons=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmamellah23\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
 
 ---
 
-<h4 align="center">💻 Always learning. Always building. 🚀</h4>
+## 🚀 Featured Project
 
+### 🤖 SmartHire
+
+An intelligent recruitment application combining **web development and Artificial Intelligence**.
+
+* 📋 Job offer management
+* 👤 Candidate management
+* 📄 CV analysis
+* 🧠 Candidate-job matching
+* 📊 Recruitment pipeline
+* 📅 Interview management
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmamellah23&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmamellah23&layout=compact&theme=default" height="180"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Python & advanced programming
+* SQL & databases
+* NumPy & Pandas
+* Machine Learning with scikit-learn
+* REST APIs
+* FastAPI
+* Git & GitHub
+* Linux
+
+---
+
+## 🔗 Links
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/salmamellah23">
+    <img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Always learning. Always building. 🚀</h3>
 
 
