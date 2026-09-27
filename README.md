@@ -1,20 +1,79 @@
-![Coding Animation](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hi, I'm Salma! 👋
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
 
-<h3 align="center">Artificial Intelligence Student | Software & Web Development Background | AI & Full-Stack Enthusiast</h3>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## A little bit about me
+<p><em>
+🎓 4th-year Artificial Intelligence Student<br>
+💻 Software & Web Development Background<br>
+🤖 Interested in AI, Machine Learning & Data Science
+</em></p>
 
-🎓  I'm currently a **4th-year Artificial Intelligence student**. 
-💻  I have a background in **Software & Web Development**. 
-🤖  I'm interested in **Artificial Intelligence, Machine Learning and Data Science**. 
-🌱  I'm currently improving my skills in **Python, SQL, Linux, NumPy, Pandas and scikit-learn**. 
-🚀  I'm also learning **REST APIs, FastAPI, Git and GitHub**. 
-🛠️  I enjoy building **practical applications that combine software development and AI**. 
-💡  My goal is to continuously learn, build projects and turn ideas into useful solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma-blue?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub followers](https://img.shields.io/github/followers/salmamellah23?label=Follow\&style=social)](https://github.com/salmamellah23)
 
 ---
 
-## Technologies & Tools
+### ⚡ A little more about me...
+
+```python
+salma = {
+    "field": "Artificial Intelligence",
+    "background": "Software & Web Development",
+
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science"
+    ],
+
+    "languages": [
+        "Python",
+        "SQL",
+        "HTML",
+        "CSS"
+    ],
+
+    "technologies": {
+        "data": [
+            "NumPy",
+            "Pandas"
+        ],
+
+        "machine_learning": [
+            "scikit-learn"
+        ],
+
+        "backend": [
+            "Flask",
+            "FastAPI",
+            "REST APIs"
+        ],
+
+        "development": [
+            "Git",
+            "GitHub",
+            "Linux"
+        ]
+    },
+
+    "current_focus": [
+        "Machine Learning",
+        "AI-driven applications",
+        "Backend development",
+        "REST APIs"
+    ],
+
+    "goal": "Build practical and intelligent software solutions"
+}
+```
+
+---
+
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,linux,mysql,html,css,flask,fastapi" />
@@ -26,22 +85,54 @@
 
 ---
 
-## 🚀 Featured Project
+### 🚀 Featured Project
 
-### 🤖 SmartHire
+#### 🤖 SmartHire
 
-An intelligent recruitment application combining **web development and Artificial Intelligence**.
+**SmartHire** is an intelligent recruitment application combining **software development and Artificial Intelligence**.
 
-* 📋 Job offer management
-* 👤 Candidate management
-* 📄 CV analysis
-* 🧠 Candidate-job matching
-* 📊 Recruitment pipeline
-* 📅 Interview management
+```text
+📋 Job Offers
+    ↓
+👤 Candidates
+    ↓
+📄 CV Analysis
+    ↓
+🧠 Candidate ↔ Job Matching
+    ↓
+📊 Recruitment Pipeline
+    ↓
+📅 Interview Management
+```
+
+Technologies include:
+
+* Python
+* Flask
+* SQLAlchemy
+* SQLite
+* HTML / CSS
+* Machine Learning / NLP concepts
+* Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+### 🌱 Currently Learning
+
+```text
+🐍 Python
+🗄️ SQL & Databases
+🐧 Linux
+📊 NumPy & Pandas
+🤖 Machine Learning with scikit-learn
+🌐 REST APIs
+⚡ FastAPI
+🔧 Git & GitHub
+```
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salmamellah23&show_icons=true&theme=default" height="180"/>
@@ -50,32 +141,25 @@ An intelligent recruitment application combining **web development and Artificia
 
 ---
 
-## 🌱 Currently Learning
-
-* Python & advanced programming
-* SQL & databases
-* NumPy & Pandas
-* Machine Learning with scikit-learn
-* REST APIs
-* FastAPI
-* Git & GitHub
-* Linux
-
----
-
-## 🔗 Links
+### 📫 Connect with me
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/salmamellah23">
-    <img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/material-outlined/40/000000/github.png" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">💻 Always learning. Always building. 🚀</h3>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<em><b>I enjoy learning, building projects and connecting with people interested in technology.</b> 🚀</em>
+
+---
+
+<h3 align="center">💻 Always learning. Always building. 🤖</h3>
 
 
